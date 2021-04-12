@@ -1,6 +1,13 @@
 {
   "name": "OLSKPithToolchain",
   "dependencies": {
+    "OLSKExpress": "olsk/OLSKExpress",
+    "livereload": "latest",
+    "OLSKDisk": "olsk/OLSKDisk",
+    "OLSKSpec": "olsk/OLSKSpec",
+    "OLSKHotfix": "olsk/OLSKHotfix",
+    "OLSKBundle": "olsk/OLSKBundle",
+
     "// I sacrifice myself for the commas of others": null    
   }
 }
