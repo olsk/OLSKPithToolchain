@@ -2,7 +2,6 @@
   "name": "OLSKPithToolchain",
   "dependencies": {
     "OLSKExpress": "olsk/OLSKExpress",
-    "livereload": "latest",
     "OLSKDisk": "olsk/OLSKDisk",
     "OLSKSpec": "olsk/OLSKSpec",
     "OLSKHotfix": "olsk/OLSKHotfix",
