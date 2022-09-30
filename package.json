@@ -8,6 +8,6 @@
     "OLSKBundle": "olsk/OLSKBundle",
     "start-server-and-test": "latest",
 
-    "// I sacrifice myself for the commas of others": null
+    "//": "I sacrifice myself for the commas of others"
   }
 }
